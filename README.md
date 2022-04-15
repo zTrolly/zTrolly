@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Malleo**
 
-- 🌱 I’m currently learning **Java, jquery, Js, C,C++**
+- 🌱 I’m currently learning **Java, jquery, Js, C,C++** & React.js
 
 - 💬 Ask me about **HTML, CSS, JS**
 
