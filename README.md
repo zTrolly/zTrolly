@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Breno Lopes</h1>
+<h1 align="center">Hi 🖖🏾, I'm Breno Lopes</h1>
 <h3 align="center">A passionate web developer from Brazil</h3>
 
 <image src="https://user-images.githubusercontent.com/61760048/164353961-e9206f96-b909-4424-8640-8fa24eb52679.png" width="180" align="right">
