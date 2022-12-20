@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Malleo**
 
-- 🌱 I’m currently learning **Java, jquery, Js & ReactJs**
+- 🌱 I’m currently learning **Java, GoLang & ReactJs**
 
 - 💬 Ask me about **HTML, CSS, JS**
 
