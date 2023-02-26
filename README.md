@@ -4,9 +4,9 @@
 <image src="https://user-images.githubusercontent.com/61760048/164353961-e9206f96-b909-4424-8640-8fa24eb52679.png" width="180" align="right">
 
 
-- 🔭 I’m currently working on **Malleo**
+- 🔭 I’m currently working at **MWSoftware**
 
-- 🌱 I’m currently learning **Java, GoLang & ReactJs**
+- 🌱 I’m currently learning **Java, c#(.net)**
 
 - 💬 Ask me about **HTML, CSS, JS**
 
